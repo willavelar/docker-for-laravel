@@ -1,4 +1,4 @@
-# Laravel with Docker
+# Docker for Laravel
 
 ![DockerVersion Support](https://img.shields.io/badge/docker-23%2B-brightgreen.svg?style=flat-square) ![Composer Version Support](https://img.shields.io/badge/docker%20compose-2.17%2B-brightgreen.svg?style=flat-square)
 
@@ -10,7 +10,7 @@ Files for quick Laravel configuration with  Docker Compose, customizable for dif
 
 1. Clone this repository
 ```sh
-git clone https://github.com/willavelar/laravel-with-docker.git
+git clone https://github.com/willavelar/docker-for-laravel.git
 ```
 
 2. Clone the Laravel repository
